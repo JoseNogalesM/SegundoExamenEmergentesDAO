@@ -1,0 +1,9 @@
+com\emergentes\modelo\Categorias.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\controlador\LibroControlador.class
+com\emergentes\DAO\categoriasDAO.class
+com\emergentes\modelo\Libro.class
+com\emergentes\DAO\categoriaDAOimple.class
+com\emergentes\DAO\libroDAOimple.class
+com\emergentes\modelo\Clientes.class
+com\emergentes\DAO\libroDAO.class
